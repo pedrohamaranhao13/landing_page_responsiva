@@ -1,0 +1,30 @@
+.texto-menor {
+    font-size: 13px;
+}
+
+.divs-facilidades {
+    width: 325px;
+}
+
+.texto-verde {
+    color:#DAFF01;
+}
+
+.cor-botao {
+    background-color: #9353FF;
+}
+
+.cor-fundo-carousel{
+    background-color: #895fb5;
+}
+
+.posicao{
+    top: 40%;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
+}
+
